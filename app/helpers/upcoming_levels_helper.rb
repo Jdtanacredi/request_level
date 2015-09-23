@@ -1,0 +1,2 @@
+module UpcomingLevelsHelper
+end
